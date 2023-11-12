@@ -1,0 +1,10 @@
+{
+	"ADMIN.MENU.DASHBOARD": "Dashboard",
+	"ADMIN.MENU.PROFILE": "PROFILE",
+	"ADMIN.MENU.MANAGE_PROFILE": "Manage Profile",
+	"ADMIN.NAV.CHANGE_PASSWORD": "Change Password",
+	"ADMIN.NAV.LOG_OUT": "Logout",
+	"CONTROLLER.AUTH.FORGOT_PASSWORD_SUCCESS": "A reset password link is sent to your email!",
+	"CONTROLLER.AUTH.ALREADY_SHARED_RESET_LINK": "We already sent you reset password link in email!",
+	"CONTROLLER.AUTH.RESET_PASSWORD_SUCCESS": "Reset password successfully done!"
+}
